@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "564498026920",
+    "firebase_url": "https://mycalcproj-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mycalcproj",
+    "storage_bucket": "mycalcproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564498026920:android:d5c66ba98988bef4cc8d9d",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTMKNmt7nZHcoNBZnzo2UiZ7hyOj1i4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
